@@ -1,6 +1,6 @@
 ng-calculator {
   display: block;
-  background: #ccc;
+  background: rgb(100, 100, 100);
   padding: 20px;
   width: 400px;
 }
